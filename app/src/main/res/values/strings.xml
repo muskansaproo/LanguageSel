@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LanguageSel</string>
+    <string name="french">French</string>
+    <string name="germen">German</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="allcourses">All Courses</string>
+    <string name="mithoo">Mithoo</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
